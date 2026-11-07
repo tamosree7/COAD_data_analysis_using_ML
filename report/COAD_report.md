@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-**Authors**: Pooja Solanki (@poojasolanki2024), Mahima Chakraborty (@mahima\_ch), Mariam Mohamed (@Mariam000v), Nourhan Saad (@Nourhan-25), Mercy Ade Ige (@MaiStar), Osama Shukri (@Osama), Tamosree Sikder (@Tamosree).
+**Authors**: Tamosree Sikder (@Tamosree) Pooja Solanki (@poojasolanki2024), Mahima Chakraborty (@mahima\_ch), Mariam Mohamed (@Mariam000v), Nourhan Saad (@Nourhan-25), Mercy Ade Ige (@MaiStar), Osama Shukri (@Osama).
 
 **Introduction**
 
